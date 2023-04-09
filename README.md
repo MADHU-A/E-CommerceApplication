@@ -70,7 +70,7 @@ $ npm start
 
 ## Support
 
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
+- Contact Instructor: [Madhu](mailto:arikondumadhu123@gmail.com)
 
 # Lessons
 
