@@ -24,8 +24,8 @@ Fully-functional e-commerce website exactly like amazon. Open your code editor a
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/mern-amazona.git
-$ cd mern-amazona
+$ git clone https://github.com/MADHU-A/E-CommerceApplication.git
+$ cd E-CommerceApplication
 ```
 
 ### 2. Create .env File
